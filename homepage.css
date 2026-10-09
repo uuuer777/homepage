@@ -100,7 +100,7 @@ a {
     font-size: 2em;
     font-style: normal;
     position: absolute;
-    top: 52%;
+    top: 55%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
@@ -116,77 +116,76 @@ a {
     justify-content: center;
 }
 
-#img{
+#img {
     display: flex;
-     flex-wrap: wrap;
-     padding-top: 65px;
+    flex-wrap: wrap;
+    padding-top: 65px;
 }
-#img2{
+
+#img2 {
     display: flex;
-     flex-wrap: wrap;
-      padding-top: 65px;
+    flex-wrap: wrap;
+    padding-top: 65px;
 }
-div>img{
-   flex-grow: 1;
+
+div>img {
+    flex-grow: 1;
     border: 1px solid #000;
-    object-fit:cover;
-    height:300px;
+    object-fit: cover;
+    height: 300px;
     width: 300px;
-    max-width:400px;
-  margin:0.2rem;
-  border-radius: 4px;
+    max-width: 400px;
+    margin: 0.2rem;
+    border-radius: 4px;
 }
 
 
-
-
-.zikosyoukai{
+.zikosyoukai {
     color: white;
     position: relative;
 }
 
-.bunn{
+.bunn {
     color: white;
     line-height: 1;
     position: absolute;
-top: 40%;
-
+    top: 40%;
 }
 
-.mozi{
+.mozi {
     top: 10px;
 }
 
-.bunn>h1{
- font-family: "DotGothic16", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-  font-size: 50px;
+.bunn>h1 {
+    font-family: "DotGothic16", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
 }
 
-.bunn>h2{
- margin: 5px;
- font-weight: 400;
- font-size: 20px;
- }
+.bunn>h2 {
+    margin: 5px;
+    font-weight: 400;
+    font-size: 20px;
+}
 
-.bunn> h3{
+.bunn>h3 {
     font: size 20px;
     font-weight: 400;
- }
+}
 
-#syoukai{
-text-align: center;
-display: flex;
-align-items: center;
-justify-content: center;
- }
+#syoukai {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
- .yuureidennsya{
+.yuureidennsya {
     margin-top: 30%;
- }
+}
 
-.emailsend{
+.emailsend {
     color: #ffffff;
     height: 100%;
     text-align: center;
@@ -195,23 +194,22 @@ justify-content: center;
     height: 600px;
 }
 
-.emailsend>div:nth-of-type(1){
-       font-family: "Zen Kaku Gothic Antique", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-  font-size: 30px;
+.emailsend>div:nth-of-type(1) {
+    font-family: "Zen Kaku Gothic Antique", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
 }
 
-.emailsend>div:nth-of-type(2){
-  font-family: "Dela Gothic One", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-  font-size: 50px;
+.emailsend>div:nth-of-type(2) {
+    font-family: "Dela Gothic One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
 }
 
-.meail{
+.meail {
     text-indent: 1em;
     margin-bottom: 1em;
 
 }
-
