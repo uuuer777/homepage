@@ -119,11 +119,12 @@ a {
 #img{
     display: flex;
      flex-wrap: wrap;
+     padding-top: 65px;
 }
 #img2{
     display: flex;
      flex-wrap: wrap;
-     
+      padding-top: 65px;
 }
 div>img{
    flex-grow: 1;
@@ -136,9 +137,6 @@ div>img{
   border-radius: 4px;
 }
 
-.yohaku{
-margin-top: 70px;
-}
 
 
 
